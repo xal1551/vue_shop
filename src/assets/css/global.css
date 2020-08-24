@@ -31,6 +31,20 @@ body,
   margin-top: 15px;
 }
 
+/* 设置级联选择器下拉框的高度 */
 .el-cascader-panel {
   height: 300px;
+}
+
+.el-steps {
+  margin: 15px 0;
+}
+
+.el-step__title {
+  font-size: 13px;
+}
+
+/* 富文本编辑器的高度 */
+.ql-editor {
+  min-height: 300px;
 }
